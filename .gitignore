@@ -1,0 +1,9 @@
+checkpoints/
+masks/
+mbd-masks-msra/
+msra10k/
+rbd-masks/
+rbd-masks-msra/
+sum-masks-msra/
+validation/
+.ipynb_checkpoints/
